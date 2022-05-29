@@ -1,0 +1,31 @@
+h1 {
+    color: #5f8f11;
+    text-align: center;
+    font-family: "Lucida Sans Unicode", sans-serif;
+  }
+  
+  hr {
+    color: #a1a4ad8d;
+  }
+  h2 {
+    color: #70af0c;
+  }
+  
+  h3 {
+    color: #bf833c;
+  }
+  
+  span {
+    color: #bf823b;
+  }
+  
+  .menu {
+    float: left;
+  }
+  .content {
+    border: 1px solid #a1a4ad8d;
+    padding: 23px;
+    float: left;
+    width: 900px;
+    margin: 0 auto;
+  }
